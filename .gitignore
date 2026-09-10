@@ -35,3 +35,4 @@ venv/
 # *.csv
 # *.parquet
 CLAUDE.md
+clases/
